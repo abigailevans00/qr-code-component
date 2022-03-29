@@ -2,21 +2,13 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
+
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
-
-## Overview
-
-### Screenshot
-
-![](images/screenshot.jpg)
 
 
 
